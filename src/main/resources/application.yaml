@@ -1,0 +1,3 @@
+graphql:
+  packages:
+    - 'io.github.t45k.spring_graphql_kotlin_trial'
